@@ -1698,81 +1698,20 @@ HTTPie friends
 
 HTTPie plays exceptionally well with the following tools:
 
-* `jq <https://stedolan.github.io/jq/>`_
-  — CLI JSON processor that
-  works great in conjunction with HTTPie
-* `http-prompt <https://github.com/eliangcs/http-prompt>`_
-  —  interactive shell for HTTPie featuring autocomplete
-  and command syntax highlighting
-
-
-Alternatives
-~~~~~~~~~~~~
-
-* `httpcat <https://github.com/jakubroztocil/httpcat>`_ — a lower-level sister utility
-  of HTTPie for constructing raw HTTP requests on the command line.
-* `curl <https://curl.haxx.se>`_ — a "Swiss knife" command line tool and
-  an exceptional library for transferring data with URLs.
-
-
-Contributing
-------------
-
-See `CONTRIBUTING.rst <https://github.com/jakubroztocil/httpie/blob/master/CONTRIBUTING.rst>`_.
-
-
-Change log
-----------
-
-See `CHANGELOG <https://github.com/jakubroztocil/httpie/blob/master/CHANGELOG.rst>`_.
-
-
-Artwork
--------
-
-* `Logo <https://github.com/claudiatd/httpie-artwork>`_ by `Cláudia Delgado <https://github.com/claudiatd>`_.
-* `Animation <https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.gif>`_ by `Allen Smith <https://github.com/loranallensmith>`_ of GitHub.
 
 
 
-Licence
--------
-
-BSD-3-Clause: `LICENSE <https://github.com/jakubroztocil/httpie/blob/master/LICENSE>`_.
 
 
-
-Authors
--------
-
-`Jakub Roztocil`_  (`@jakubroztocil`_) created HTTPie and `these fine people`_
-have contributed.
+  
 
 
-.. _pip: https://pip.pypa.io/en/stable/installing/
-.. _Github API: https://developer.github.com/v3/issues/comments/#create-a-comment
-.. _these fine people: https://github.com/jakubroztocil/httpie/contributors
-.. _Jakub Roztocil: https://roztocil.co
-.. _@jakubroztocil: https://twitter.com/jakubroztocil
 
 
-.. |pypi| image:: https://img.shields.io/pypi/v/httpie.svg?style=flat-square&label=latest%20stable%20version
-    :target: https://pypi.python.org/pypi/httpie
-    :alt: Latest version released on PyPi
 
-.. |coverage| image:: https://img.shields.io/codecov/c/github/jakubroztocil/httpie?style=flat-square
-    :target: https://codecov.io/gh/jakubroztocil/httpie
-    :alt: Test coverage
 
-.. |build| image:: https://github.com/jakubroztocil/httpie/workflows/Build/badge.svg
-    :target: https://github.com/jakubroztocil/httpie/actions
-    :alt: Build status of the master branch on Mac/Linux/Windows
 
-.. |gitter| image:: https://img.shields.io/gitter/room/jkbrzt/httpie.svg?style=flat-square
-    :target: https://gitter.im/jkbrzt/httpie
-    :alt: Chat on Gitter
 
-.. |downloads| image:: https://pepy.tech/badge/httpie
-    :target: https://pepy.tech/project/httpie
-    :alt: Download count
+
+
 
